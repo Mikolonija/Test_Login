@@ -1,0 +1,13 @@
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\bin\Debug\netcoreapp2.1\2019-05-06.deps.json
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\bin\Debug\netcoreapp2.1\2019-05-06.runtimeconfig.json
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\bin\Debug\netcoreapp2.1\2019-05-06.runtimeconfig.dev.json
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\bin\Debug\netcoreapp2.1\2019-05-06.dll
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\obj\Debug\netcoreapp2.1\2019-05-06.csprojAssemblyReference.cache
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\obj\Debug\netcoreapp2.1\2019-05-06.csproj.CoreCompileInputs.cache
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\obj\Debug\netcoreapp2.1\2019-05-06.AssemblyInfoInputs.cache
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\obj\Debug\netcoreapp2.1\2019-05-06.AssemblyInfo.cs
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\bin\Debug\netcoreapp2.1\chromedriver.exe
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\bin\Debug\netcoreapp2.1\2019-05-06.pdb
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\obj\Debug\netcoreapp2.1\2019-05-06.dll
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\obj\Debug\netcoreapp2.1\2019-05-06.pdb
+C:\Users\Mode\source\repos\2019-05-06\2019-05-06\bin\Debug\netcoreapp2.1\2019-05-06.dll.config
